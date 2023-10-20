@@ -1,7 +1,7 @@
 # Hello! I am Ryan 
 ![alt text](https://media.tenor.com/Jojpr9QgMLoAAAAd/maxwell-maxwell-spin.gif)
 
-I am an individual who is passonate in computer software and hardware 
+I am an individual who is passionate in computer software and hardware 
 
 Here is somthing I can do
 
